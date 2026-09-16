@@ -293,7 +293,7 @@ Inria, Flowers Laboratory.
 Kangrui Wang, Linjie Li, Zhengyuan Yang, Shiqi Chen, Zihan Wang, Li Fei-Fei, Jiajun Wu, Leonidas Guibas, Lijuan Wang, Manling Li<br>
 
 * [**RoboClaw: An Agentic Framework for Scalable Long-Horizon Robotic Tasks**](https://arxiv.org/abs/2603.11558) [**arXiv 2026.03**] [[**Project Page**](https://roboclaw-agibot.github.io/)] [[**Github**](https://github.com/RoboClaw-Robotics/RoboClaw)]<br>
-Ruiying Li<sup>*</sup>, Yunlang Zhou<sup>*</sup>, YuYao Zhu, Kylin Chen, Jingyuan Wang, Sukai Wang, Kongtao Hu, Minhui Yu, Bowen Jiang, Zhan Su, Jiayao Ma, Xin He, Yongjian Shen, Yang Yang, Guanghui Ren, Maoqing Yao, Wenhao Wang<sup>†</sup>, Yao Mu<sup>†</sup><br>
+Ruiying Li<sup>&#42;</sup>, Yunlang Zhou<sup>&#42;</sup>, YuYao Zhu, Kylin Chen, Jingyuan Wang, Sukai Wang, Kongtao Hu, Minhui Yu, Bowen Jiang, Zhan Su, Jiayao Ma, Xin He, Yongjian Shen, Yang Yang, Guanghui Ren, Maoqing Yao, Wenhao Wang<sup>†</sup>, Yao Mu<sup>†</sup><br>
 
 * [**RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics**](https://arxiv.org/pdf/2506.04308) [**Arxiv 2025**] [[**Project Page**](https://zhoues.github.io/RoboRefer/)] [[**Code**](https://github.com/Zhoues/RoboRefer)]<br>
 Enshen Zhou<sup>1,2,*</sup>, Jingkun An<sup>1,*</sup>, Cheng Chi<sup>2,*</sup><br>
